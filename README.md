@@ -1,4 +1,5 @@
 # Herokuapp--Automation-Tests
+Tools: Selenium Wbdriver. VisualStudio 2022, IntelliJ Idea
 Challenges found while automating the application
 
 1.	Dynamic elements – Since the buttons, links, table or canvas has no unique locators.
